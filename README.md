@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitsha26&label=Profile%20views&color=0e75b6&style=flat" alt="arpitsha26" /> </p>
 
-- 🔭 I’m currently working on [Stock Management app](https://github.com/arpitsha26/Stock_monitoring_app)
+- 🔭 I’m currently working on [StreamFlix app ](https://github.com/arpitsha26/StreamFlix)
 
 - 🌱 I’m currently learning **Django**
 
