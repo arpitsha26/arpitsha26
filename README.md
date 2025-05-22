@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C++**, **Javascript**
 
 - 📫 How to reach me **arpitsharma1263@gmail.com**
 
