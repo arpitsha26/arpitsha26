@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [StreamFlix app ](https://github.com/arpitsha26/StreamFlix)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**, **NODEJS**
 
 - 💬 Ask me about **Python, C++**, **Javascript**
 
